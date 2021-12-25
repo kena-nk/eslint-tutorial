@@ -1,8 +1,8 @@
-var a: number = 1
+const hoge = 'hoge'
 
-var b = () => {
+const huga = () => {
     return 2
 }
 
-console.log(a)
-console.log(b())
+console.log(hoge)
+console.log(huga())
