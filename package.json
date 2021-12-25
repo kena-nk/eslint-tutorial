@@ -1,0 +1,9 @@
+{
+  "name": "eslint-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kena-nk/eslint-tutorial.git",
+  "author": "kena-nk <keina_nakamoto@rebuild-inc.co.jp>",
+  "license": "MIT",
+  "private": true
+}
