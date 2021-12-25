@@ -5,5 +5,9 @@
   "repository": "ssh://git@github.com/kena-nk/eslint-tutorial.git",
   "author": "kena-nk <keina_nakamoto@rebuild-inc.co.jp>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
 }
